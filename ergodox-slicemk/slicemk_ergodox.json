@@ -272,18 +272,20 @@
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "G",
+					"Behavior": "\u0026lt",
 					"Notes": "",
 					"Args": [
+						"numrow",
 						"G"
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "H",
+					"Behavior": "\u0026lt",
 					"Notes": "",
 					"Args": [
+						"numrow",
 						"H"
 					]
 				},
@@ -2158,6 +2160,512 @@
 					"Args": [
 						"RET"
 					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				}
+			]
+		},
+		{
+			"Name": "numrow",
+			"Notes": "",
+			"Keys": [
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"TILD"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"EXCL"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"AT"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"POUND"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"DOLLAR"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"PERCENT"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"CARET"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"AMPERSAND"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"STAR"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"LPAR"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"RPAR"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"GRAVE"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"N1"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"N2"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"N3"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"N4"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"N5"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"N6"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"N7"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"N8"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"N9"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"N0"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
 				},
 				{
 					"Name": "",
