@@ -9,51 +9,39 @@
 			"Keys": [
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"GRAV"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"NUMBER_1"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"NUMBER_2"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"NUMBER_3"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"NUMBER_4"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"NUMBER_5"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
@@ -71,51 +59,39 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"NUMBER_6"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"NUMBER_7"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"NUMBER_8"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"NUMBER_9"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"NUMBER_0"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"MINUS"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
