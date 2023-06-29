@@ -143,19 +143,15 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026mo",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"symb"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026mo",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"symb"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
@@ -214,86 +210,88 @@
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "A/CTRL",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"LEFT_CONTROL",
 						"A"
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "S/LALT",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"LEFT_ALT",
 						"S"
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "D/LCMD",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"LEFT_COMMAND",
 						"D"
 					]
 				},
 				{
 					"Name": "F",
-					"Behavior": "\u0026lt",
+					"Behavior": "\u0026kp",
 					"Notes": "",
 					"Args": [
-						"movement",
 						"F"
 					]
 				},
 				{
 					"Name": "G",
-					"Behavior": "\u0026lt",
+					"Behavior": "\u0026kp",
 					"Notes": "",
 					"Args": [
-						"numrow",
 						"G"
 					]
 				},
 				{
 					"Name": "H",
-					"Behavior": "\u0026lt",
+					"Behavior": "\u0026kp",
 					"Notes": "",
 					"Args": [
-						"numrow",
 						"H"
 					]
 				},
 				{
 					"Name": "J",
-					"Behavior": "\u0026lt",
+					"Behavior": "\u0026kp",
 					"Notes": "",
 					"Args": [
-						"symb",
 						"J"
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "K/RCMD",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"RIGHT_COMMAND",
 						"K"
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "L/RALT",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"RIGHT_ALT",
 						"L"
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": ";/CTRL",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"RIGHT_CONTROL",
 						"SEMICOLON"
 					]
 				},
@@ -538,10 +536,11 @@
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "🔙/num",
+					"Behavior": "\u0026lt",
 					"Notes": "",
 					"Args": [
+						"numrow",
 						"BSPC"
 					]
 				},
@@ -562,10 +561,11 @@
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "🎼/num",
+					"Behavior": "\u0026lt",
 					"Notes": "",
 					"Args": [
+						"numrow",
 						"TAB"
 					]
 				},
@@ -578,19 +578,19 @@
 					]
 				},
 				{
-					"Name": "L-CMD",
-					"Behavior": "\u0026kp",
+					"Name": "",
+					"Behavior": "\u0026mo",
 					"Notes": "",
 					"Args": [
-						"LEFT_COMMAND"
+						"movement"
 					]
 				},
 				{
-					"Name": "R-CMD",
-					"Behavior": "\u0026kp",
+					"Name": "",
+					"Behavior": "\u0026mo",
 					"Notes": "",
 					"Args": [
-						"RIGHT_COMMAND"
+						"symb"
 					]
 				}
 			]
@@ -836,12 +836,6 @@
 					"Args": []
 				},
 				{
-					"Name": "❌",
-					"Behavior": "\u0026none",
-					"Notes": "Layer toggle",
-					"Args": []
-				},
-				{
 					"Name": "R-SHFT",
 					"Behavior": "\u0026kp",
 					"Notes": "",
@@ -850,16 +844,28 @@
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026none",
+					"Name": "R-CMD",
+					"Behavior": "\u0026kp",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"RIGHT_COMMAND"
+					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026none",
+					"Name": "R-ALT",
+					"Behavior": "\u0026kp",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"RIGHT_ALT"
+					]
+				},
+				{
+					"Name": "R-CTRL",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"RIGHT_CONTROL"
+					]
 				},
 				{
 					"Name": "",
@@ -1092,7 +1098,7 @@
 					"Args": []
 				},
 				{
-					"Name": "",
+					"Name": "❌",
 					"Behavior": "\u0026none",
 					"Notes": "",
 					"Args": []
@@ -1792,18 +1798,6 @@
 					"Args": []
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
 					"Name": "L-CTRL",
 					"Behavior": "\u0026kp",
 					"Notes": "",
@@ -1812,10 +1806,28 @@
 					]
 				},
 				{
-					"Name": "❌",
-					"Behavior": "\u0026none",
-					"Notes": "Layer Toggle",
-					"Args": []
+					"Name": "L-ALT",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"LEFT_ALT"
+					]
+				},
+				{
+					"Name": "L-CMD",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"LEFT_COMMAND"
+					]
+				},
+				{
+					"Name": "L-SHFT",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"LEFT_SHIFT"
+					]
 				},
 				{
 					"Name": "",
@@ -2080,7 +2092,7 @@
 					"Args": []
 				},
 				{
-					"Name": "",
+					"Name": "❌",
 					"Behavior": "\u0026none",
 					"Notes": "",
 					"Args": []
@@ -2630,5 +2642,5 @@
 			]
 		}
 	],
-	"Custom": ""
+	"Custom": "\u0026mt {\n\ttapping-term-ms = \u003c600\u003e;\n\tflavor = \"balanced\";\n};"
 }
