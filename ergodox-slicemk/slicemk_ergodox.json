@@ -237,10 +237,11 @@
 					]
 				},
 				{
-					"Name": "F",
-					"Behavior": "\u0026kp",
+					"Name": "F/LSHFT",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"LEFT_SHIFT",
 						"F"
 					]
 				},
@@ -261,10 +262,11 @@
 					]
 				},
 				{
-					"Name": "J",
-					"Behavior": "\u0026kp",
+					"Name": "J/RSHFT",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"RIGHT_SHIFT",
 						"J"
 					]
 				},
@@ -416,116 +418,88 @@
 					]
 				},
 				{
-					"Name": "L-CTRL",
-					"Behavior": "\u0026kp",
+					"Name": "",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"LEFT_CONTROL"
-					]
-				},
-				{
-					"Name": "L-ALT",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"LEFT_ALT"
-					]
-				},
-				{
-					"Name": "L-CMD",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"LEFT_COMMAND"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"LARW"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"RARW"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"UARW"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"DARW"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"EQUAL"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"PLUS"
-					]
-				},
-				{
-					"Name": "R-CTRL",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"RIGHT_CONTROL"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"DEL"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"HOME"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"END"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"INS"
-					]
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
 				},
 				{
 					"Name": "",
@@ -546,19 +520,15 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"PGUP"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026kp",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"PGDN"
-					]
+					"Args": []
 				},
 				{
 					"Name": "🎼/num",
