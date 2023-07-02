@@ -437,27 +437,37 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026none",
+					"Behavior": "\u0026mo",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"movement"
+					]
+				},
+				{
+					"Name": "🔙/num",
+					"Behavior": "\u0026lt",
+					"Notes": "",
+					"Args": [
+						"numrow",
+						"BSPC"
+					]
+				},
+				{
+					"Name": "🎼/num",
+					"Behavior": "\u0026lt",
+					"Notes": "",
+					"Args": [
+						"numrow",
+						"TAB"
+					]
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026none",
+					"Behavior": "\u0026mo",
 					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
+					"Args": [
+						"symb"
+					]
 				},
 				{
 					"Name": "",
@@ -510,15 +520,6 @@
 					]
 				},
 				{
-					"Name": "🔙/num",
-					"Behavior": "\u0026lt",
-					"Notes": "",
-					"Args": [
-						"numrow",
-						"BSPC"
-					]
-				},
-				{
 					"Name": "",
 					"Behavior": "\u0026none",
 					"Notes": "",
@@ -531,13 +532,16 @@
 					"Args": []
 				},
 				{
-					"Name": "🎼/num",
-					"Behavior": "\u0026lt",
+					"Name": "",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"numrow",
-						"TAB"
-					]
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
 				},
 				{
 					"Name": "⏎",
@@ -549,19 +553,15 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026mo",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"movement"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026mo",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"symb"
-					]
+					"Args": []
 				}
 			]
 		},

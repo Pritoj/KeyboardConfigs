@@ -21,14 +21,14 @@
 		layer_0 {
 			bindings = <
 				&bootloader
-				&none          &none              &none          &none              &none            &none                 &to LAYER_MAIN     &none          &none                &none             &none               &none           &none                       &none
-				&kp TAB        &kp Q              &kp W          &kp E              &kp R            &kp T                 &none              &none          &kp Y                &kp U             &kp I               &kp O           &kp P                       &kp BSLH
-				&kp ESC        &mt LEFT_CONTROL A &mt LEFT_ALT S &mt LEFT_COMMAND D &mt LEFT_SHIFT F &kp G                                                   &kp H                &mt RIGHT_SHIFT J &mt RIGHT_COMMAND K &mt RIGHT_ALT L &mt RIGHT_CONTROL SEMICOLON &kp QUOT
-				&kp LEFT_SHIFT &kp Z              &kp X          &kp C              &kp V            &kp B                 &mo LAYER_FN       &mo LAYER_FN   &kp N                &kp M             &kp CMMA            &kp DOT         &kp FSLH                    &kp RIGHT_SHIFT
-				&none          &none              &none          &none              &none                                                                                         &none             &none               &none           &none                       &none
-				                                                                                     &none                 &none              &none          &none
-				                                                                    &kp SPACE        &lt LAYER_NUMROW BSPC &none              &none          &lt LAYER_NUMROW TAB &kp RET
-				                                                                                                           &mo LAYER_MOVEMENT &mo LAYER_SYMB
+				&none          &none              &none          &none              &none                 &none &to LAYER_MAIN &none        &none &none                &none               &none           &none                       &none
+				&kp TAB        &kp Q              &kp W          &kp E              &kp R                 &kp T &none          &none        &kp Y &kp U                &kp I               &kp O           &kp P                       &kp BSLH
+				&kp ESC        &mt LEFT_CONTROL A &mt LEFT_ALT S &mt LEFT_COMMAND D &mt LEFT_SHIFT F      &kp G                             &kp H &mt RIGHT_SHIFT J    &mt RIGHT_COMMAND K &mt RIGHT_ALT L &mt RIGHT_CONTROL SEMICOLON &kp QUOT
+				&kp LEFT_SHIFT &kp Z              &kp X          &kp C              &kp V                 &kp B &mo LAYER_FN   &mo LAYER_FN &kp N &kp M                &kp CMMA            &kp DOT         &kp FSLH                    &kp RIGHT_SHIFT
+				&none          &none              &none          &mo LAYER_MOVEMENT &lt LAYER_NUMROW BSPC                                         &lt LAYER_NUMROW TAB &mo LAYER_SYMB      &none           &none                       &none
+				                                                                                          &none &none          &none        &none
+				                                                                    &kp SPACE             &none &none          &none        &none &kp RET
+				                                                                                                &none          &none
 			>;
 		};
 		layer_1 {
