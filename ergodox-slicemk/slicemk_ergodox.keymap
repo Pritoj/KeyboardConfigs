@@ -47,14 +47,14 @@
 		layer_2 {
 			bindings = <
 				&bootloader
-				&none     &none    &none  &none     &none      &none       &none &none &none     &none         &none    &none    &none    &none
-				&kp TILD  &kp EXCL &kp AT &kp POUND &kp DOLLAR &kp PERCENT &none &none &kp CARET &kp AMPERSAND &kp STAR &kp LPAR &kp RPAR &kp UNDER
-				&kp GRAVE &kp N1   &kp N2 &kp N3    &kp N4     &kp N5                  &kp N6    &kp N7        &kp N8   &kp N9   &kp N0   &kp MINUS
-				&none     &none    &none  &none     &none      &none       &none &none &none     &none         &none    &none    &none    &none
-				&none     &none    &none  &none     &none                                        &none         &none    &none    &none    &none
-				                                               &none       &none &none &none
-				                                    &none      &none       &none &none &none     &none
-				                                                           &none &none
+				&none     &none               &none           &none               &none             &none       &none &none &none     &none              &none                &none            &none                &none
+				&kp TILD  &kp EXCL            &kp AT          &kp POUND           &kp DOLLAR        &kp PERCENT &none &none &kp CARET &kp AMPERSAND      &kp STAR             &kp LPAR         &kp RPAR             &kp UNDER
+				&kp GRAVE &mt LEFT_CONTROL N1 &mt LEFT_ALT N2 &mt LEFT_COMMAND N3 &mt LEFT_SHIFT N4 &kp N5                  &kp N6    &mt RIGHT_SHIFT N7 &mt RIGHT_COMMAND N8 &mt RIGHT_ALT N9 &mt RIGHT_CONTROL N0 &kp MINUS
+				&none     &none               &none           &none               &none             &none       &none &none &none     &none              &none                &none            &none                &none
+				&none     &none               &none           &none               &none                                               &none              &none                &none            &none                &none
+				                                                                                    &none       &none &none &none
+				                                                                  &none             &none       &none &none &none     &none
+				                                                                                                &none &none
 			>;
 		};
 		layer_3 {

@@ -1280,34 +1280,38 @@
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "1/LCTRL",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"LEFT_CONTROL",
 						"N1"
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "2/LALT",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"LEFT_ALT",
 						"N2"
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "3/LCMD",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"LEFT_COMMAND",
 						"N3"
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "4/LSHFT",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"LEFT_SHIFT",
 						"N4"
 					]
 				},
@@ -1328,34 +1332,38 @@
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "7/RSHFT",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"RIGHT_SHIFT",
 						"N7"
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "8/RCMD",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"RIGHT_COMMAND",
 						"N8"
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "9/RALT",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"RIGHT_ALT",
 						"N9"
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "0/RCTRL",
+					"Behavior": "\u0026mt",
 					"Notes": "",
 					"Args": [
+						"RIGHT_CONTROL",
 						"N0"
 					]
 				},
