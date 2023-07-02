@@ -45,60 +45,58 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026to",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026mo",
 					"Notes": "",
 					"Args": [
-						"main"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"TAB"
+						"fn"
 					]
 				},
 				{
@@ -194,11 +192,12 @@
 					]
 				},
 				{
-					"Name": "",
-					"Behavior": "\u0026kp",
+					"Name": "\\ fn",
+					"Behavior": "\u0026lt",
 					"Notes": "",
 					"Args": [
-						"BSLH"
+						"fn",
+						"BACKSLASH"
 					]
 				},
 				{
@@ -355,19 +354,15 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026mo",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"fn"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026mo",
+					"Behavior": "\u0026none",
 					"Notes": "",
-					"Args": [
-						"fn"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
@@ -2089,6 +2084,274 @@
 			"Keys": [
 				{
 					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "❌",
+					"Behavior": "\u0026none",
+					"Notes": "layer toggle",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"F1"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"F2"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"F3"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"F4"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"F5"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"F6"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"F7"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"F8"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"F9"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"F10"
+					]
+				},
+				{
+					"Name": "❌",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026out",
+					"Notes": "",
+					"Args": [
+						"OUT_TOG"
+					]
+				},
+				{
+					"Name": "",
 					"Behavior": "\u0026bt",
 					"Notes": "",
 					"Args": [
@@ -2135,44 +2398,6 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026to",
-					"Notes": "",
-					"Args": [
-						"main"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
 					"Behavior": "\u0026none",
 					"Notes": "",
 					"Args": []
@@ -2185,305 +2410,35 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "\u0026out",
-					"Notes": "",
-					"Args": [
-						"OUT_USB"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F1"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F2"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F3"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F4"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026mo",
-					"Notes": "",
-					"Args": [
-						"symb"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026mo",
-					"Notes": "",
-					"Args": [
-						"symb"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F13"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F14"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F15"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F16"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026out",
-					"Notes": "",
-					"Args": [
-						"OUT_BLE"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F5"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F6"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F7"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F8"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F17"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F18"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F19"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F20"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F9"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F10"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F11"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F12"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026mo",
-					"Notes": "",
-					"Args": [
-						"fn"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026mo",
-					"Notes": "",
-					"Args": [
-						"fn"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F21"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F22"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F23"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F24"
-					]
-				},
-				{
-					"Name": "",
 					"Behavior": "\u0026bt",
 					"Notes": "",
 					"Args": [
 						"BT_CLR"
 					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026none",
+					"Notes": "",
+					"Args": []
 				},
 				{
 					"Name": "",

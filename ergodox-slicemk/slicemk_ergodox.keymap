@@ -21,14 +21,14 @@
 		layer_0 {
 			bindings = <
 				&bootloader
-				&none          &none              &none          &none              &none                 &none &to LAYER_MAIN &none        &none &none                &none               &none           &none                       &none
-				&kp TAB        &kp Q              &kp W          &kp E              &kp R                 &kp T &none          &none        &kp Y &kp U                &kp I               &kp O           &kp P                       &kp BSLH
-				&kp ESC        &mt LEFT_CONTROL A &mt LEFT_ALT S &mt LEFT_COMMAND D &mt LEFT_SHIFT F      &kp G                             &kp H &mt RIGHT_SHIFT J    &mt RIGHT_COMMAND K &mt RIGHT_ALT L &mt RIGHT_CONTROL SEMICOLON &kp QUOT
-				&kp LEFT_SHIFT &kp Z              &kp X          &kp C              &kp V                 &kp B &mo LAYER_FN   &mo LAYER_FN &kp N &kp M                &kp CMMA            &kp DOT         &kp FSLH                    &kp RIGHT_SHIFT
-				&none          &none              &none          &mo LAYER_MOVEMENT &lt LAYER_NUMROW BSPC                                         &lt LAYER_NUMROW TAB &mo LAYER_SYMB      &none           &none                       &none
-				                                                                                          &none &none          &none        &none
-				                                                                    &kp SPACE             &none &none          &none        &none &kp RET
-				                                                                                                &none          &none
+				&none          &none              &none          &none              &none                 &none &none &none &none &none                &none               &none           &none                       &none
+				&mo LAYER_FN   &kp Q              &kp W          &kp E              &kp R                 &kp T &none &none &kp Y &kp U                &kp I               &kp O           &kp P                       &lt LAYER_FN BACKSLASH
+				&kp ESC        &mt LEFT_CONTROL A &mt LEFT_ALT S &mt LEFT_COMMAND D &mt LEFT_SHIFT F      &kp G             &kp H &mt RIGHT_SHIFT J    &mt RIGHT_COMMAND K &mt RIGHT_ALT L &mt RIGHT_CONTROL SEMICOLON &kp QUOT
+				&kp LEFT_SHIFT &kp Z              &kp X          &kp C              &kp V                 &kp B &none &none &kp N &kp M                &kp CMMA            &kp DOT         &kp FSLH                    &kp RIGHT_SHIFT
+				&none          &none              &none          &mo LAYER_MOVEMENT &lt LAYER_NUMROW BSPC                         &lt LAYER_NUMROW TAB &mo LAYER_SYMB      &none           &none                       &none
+				                                                                                          &none &none &none &none
+				                                                                    &kp SPACE             &none &none &none &none &kp RET
+				                                                                                                &none &none
 			>;
 		};
 		layer_1 {
@@ -73,14 +73,14 @@
 		layer_4 {
 			bindings = <
 				&bootloader
-				&bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &none &to LAYER_MAIN &none          &none &none   &none   &none   &none   &bootloader
-				&out OUT_USB &kp F1       &kp F2       &kp F3       &kp F4       &none &mo LAYER_SYMB &mo LAYER_SYMB &none &kp F13 &kp F14 &kp F15 &kp F16 &none
-				&out OUT_BLE &kp F5       &kp F6       &kp F7       &kp F8       &none                               &none &kp F17 &kp F18 &kp F19 &kp F20 &none
-				&none        &kp F9       &kp F10      &kp F11      &kp F12      &none &mo LAYER_FN   &mo LAYER_FN   &none &kp F21 &kp F22 &kp F23 &kp F24 &bt BT_CLR
-				&none        &none        &none        &none        &none                                                  &none   &none   &none   &none   &none
-				                                                                 &none &none          &none          &none
-				                                                    &none        &none &none          &none          &none &none
-				                                                                       &none          &none
+				&none        &none        &none        &none        &none        &none        &none &none &none       &none      &none  &none  &none   &none
+				&none        &kp F1       &kp F2       &kp F3       &kp F4       &kp F5       &none &none &kp F6      &kp F7     &kp F8 &kp F9 &kp F10 &none
+				&none        &none        &none        &none        &none        &none                    &none       &none      &none  &none  &none   &none
+				&out OUT_TOG &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &none &none &bootloader &bt BT_CLR &none  &none  &none   &none
+				&none        &none        &none        &none        &none                                             &none      &none  &none  &none   &none
+				                                                                 &none        &none &none &none
+				                                                    &none        &none        &none &none &none       &none
+				                                                                              &none &none
 			>;
 		};
 	};
